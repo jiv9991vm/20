@@ -1,0 +1,26 @@
+{
+  "name": "20obo-pbm99",
+  "version": "1.0.0",
+  "description": "A dynamic data visualization dashboard that converts complex data sets into visually appealing charts, graphs, and interactive visual representations for clear and actionable insights.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiv9991vm/20.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "jiv9991vm",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
